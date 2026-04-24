@@ -1,5 +1,7 @@
 module.exports = {
   upload: {
-    enabled: false,
+    config: {
+      providerOptions: {},
+    },
   },
 };
